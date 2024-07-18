@@ -1,0 +1,180 @@
+body{
+    font-family:"ヒラギノ角ゴシック　ProN", "メイリオ", sans-serif;
+}
+
+header img{
+    width:30%; height:140px;
+}
+
+header{
+    top:0; left:0; right:0; width:100%; height:100px;
+}
+
+.menu{
+    background-color:black;
+    width:95%;
+    height:45px;
+    padding-left:30px;
+    padding-right:20px;
+}
+
+.menu li{
+    float:left;
+    list-style:none;
+    line-height:45px;
+    color:white;
+    padding-right:45px;
+    font-size:20px;
+}
+
+main{
+    clear:both;
+}
+
+.main-container{
+    width:100%;
+    margin:0 auto;
+    margin-top:70%;
+}
+
+.left{
+    float:left;
+    background-color:white;
+    width:70%;
+}
+
+h1{
+    border-left:8px solid black;
+    border-bottom:2px solid black;
+    color:black;
+    font-weight:bold;
+    font-size:35px;
+}
+
+.graybox1{
+    width:98%;
+    background-color:#f5f5f5;
+    border:2px solid lightgray;
+    padding-top:10px;
+    padding-left:5px;
+    padding-bottom:10px;
+}
+
+.graybox1 h2{
+    border-left:6px solid red;
+    font-weight:bold;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:10px;
+    padding-left:10px;
+}
+
+form div{
+    width:500px;
+    margin-left:10px;
+}
+
+textarea{
+    width:500px; height:150px;
+}
+
+.handlname{
+    width:400px;
+}
+
+.title{
+    width:400px;
+}
+
+.submit{
+    border:2px solid gray;
+    color:white;
+    background-color:gray;
+    border-radius:2px;
+    border-bottom:2px solid darkgray;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+
+.graybox2{
+    width:98%;
+    background-color:#f5f5f5;
+    border:2px solid lightgray;
+    margin-bottom:10px;
+    padding-left:5px;
+}
+
+.graybox2 h2{
+    border-bottom:2px solid lightgray;
+    margin-top:5px;
+    margin-right:10px;
+    margin-bottom:10px;
+    font-size:25px;
+    padding-top:10px;
+    padding-left:10px;
+}
+
+.contents{
+    padding-left:10px;
+    margin-bottom:5px;
+}
+
+.graybox2 .handlname{
+    padding-left:10px;
+    padding-bottom:15px;
+}
+
+.right{
+    float:left;
+    background-color:white;
+    width:25%;
+    height:100%;
+    padding-left:10px;
+    margin-left:10px;
+}
+
+.kizi{
+    border-bottom:3px solid lightgray;
+    color:black;
+    font-weight:bold;
+    font-size:25px;
+    line-height:1.5;
+}
+
+.migi li{
+    list-style:none;
+    padding-left:5px;
+    font-size:20px;
+}
+
+.migi ul{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.link{
+    border-bottom:3px solid lightgray;
+    color:black;
+    font-weight:bold;
+    font-size:25px;
+    line-height:1.5
+}
+
+.kategori{
+    border-bottom:3px solid lightgray;
+    color:black;
+    font-weight:bold;
+    font-size:25px;
+    line-height:1.5;
+}
+
+footer{
+    clear:left;
+    width:100%;
+    height:60px;
+    bottom:0; left:0px;
+    color:white;
+    background-color:black;
+    text-align:center;
+    line-height: 60px;
+}
